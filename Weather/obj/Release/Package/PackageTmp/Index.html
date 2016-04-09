@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html ng-app="Weather">
+<head>
+    <title>Weather</title>
+    <meta charset="utf-8" />
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="weatherdirective/weather.css" rel="stylesheet" />
+</head>
+<body ng-controller="mainController">
+    <div class="container-fluid">
+        <div class="sf_Weather">
+            <div class="location">San Francisco </div>
+            <div weather cls-prefix="sf" coords="{pos : ['37.7749','122.4194']}" />
+        </div>
+
+    </div>
+
+    <div class="container-fluid">
+
+        <div class="ny_Weather">
+            <div class="location">New York </div>
+            <div weather cls-prefix="ny" coords="{pos : ['40.7128','74.0059']}" />
+        </div>
+
+    </div>
+
+
+    
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/linq.js"></script>
+    <script src="weatherdirective/weather.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
+

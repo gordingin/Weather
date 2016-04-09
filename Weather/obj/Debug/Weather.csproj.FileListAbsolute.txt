@@ -1,0 +1,58 @@
+C:\weather\Weather\Weather\bin\roslyn\csc.exe
+C:\weather\Weather\Weather\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\weather\Weather\Weather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\weather\Weather\Weather\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\weather\Weather\Weather\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\weather\Weather\Weather\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\weather\Weather\Weather\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\weather\Weather\Weather\bin\roslyn\System.Collections.Immutable.dll
+C:\weather\Weather\Weather\bin\roslyn\System.Reflection.Metadata.dll
+C:\weather\Weather\Weather\bin\roslyn\vbc.exe
+C:\weather\Weather\Weather\bin\roslyn\VBCSCompiler.exe
+C:\weather\Weather\Weather\bin\roslyn\VBCSCompiler.exe.config
+C:\weather\Weather\Weather\bin\Weather.dll.config
+C:\weather\Weather\Weather\bin\Weather.dll
+C:\weather\Weather\Weather\bin\Weather.pdb
+C:\weather\Weather\Weather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\weather\Weather\Weather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\weather\Weather\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+C:\weather\Weather\Weather\obj\Debug\Weather.dll
+C:\weather\Weather\Weather\obj\Debug\Weather.pdb
+D:\github projects\AngularJS\Weather\Weather\bin\roslyn\csc.exe
+D:\github projects\AngularJS\Weather\Weather\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\github projects\AngularJS\Weather\Weather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\github projects\AngularJS\Weather\Weather\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\github projects\AngularJS\Weather\Weather\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\github projects\AngularJS\Weather\Weather\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\github projects\AngularJS\Weather\Weather\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\github projects\AngularJS\Weather\Weather\bin\roslyn\System.Collections.Immutable.dll
+D:\github projects\AngularJS\Weather\Weather\bin\roslyn\System.Reflection.Metadata.dll
+D:\github projects\AngularJS\Weather\Weather\bin\roslyn\vbc.exe
+D:\github projects\AngularJS\Weather\Weather\bin\roslyn\VBCSCompiler.exe
+D:\github projects\AngularJS\Weather\Weather\bin\roslyn\VBCSCompiler.exe.config
+D:\github projects\AngularJS\Weather\Weather\bin\Weather.dll.config
+D:\github projects\AngularJS\Weather\Weather\bin\Weather.dll
+D:\github projects\AngularJS\Weather\Weather\bin\Weather.pdb
+D:\github projects\AngularJS\Weather\Weather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\github projects\AngularJS\Weather\Weather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\github projects\AngularJS\Weather\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+D:\github projects\AngularJS\Weather\Weather\obj\Debug\Weather.dll
+D:\github projects\AngularJS\Weather\Weather\obj\Debug\Weather.pdb
+D:\github\AngularJS\Weather\Weather\bin\roslyn\csc.exe
+D:\github\AngularJS\Weather\Weather\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\github\AngularJS\Weather\Weather\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\github\AngularJS\Weather\Weather\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\github\AngularJS\Weather\Weather\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\github\AngularJS\Weather\Weather\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\github\AngularJS\Weather\Weather\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\github\AngularJS\Weather\Weather\bin\roslyn\System.Collections.Immutable.dll
+D:\github\AngularJS\Weather\Weather\bin\roslyn\System.Reflection.Metadata.dll
+D:\github\AngularJS\Weather\Weather\bin\roslyn\vbc.exe
+D:\github\AngularJS\Weather\Weather\bin\roslyn\VBCSCompiler.exe
+D:\github\AngularJS\Weather\Weather\bin\roslyn\VBCSCompiler.exe.config
+D:\github\AngularJS\Weather\Weather\bin\Weather.dll.config
+D:\github\AngularJS\Weather\Weather\bin\Weather.dll
+D:\github\AngularJS\Weather\Weather\bin\Weather.pdb
+D:\github\AngularJS\Weather\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+D:\github\AngularJS\Weather\Weather\obj\Debug\Weather.dll
+D:\github\AngularJS\Weather\Weather\obj\Debug\Weather.pdb
