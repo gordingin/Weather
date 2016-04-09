@@ -5,4 +5,7 @@ Written using Visual Studio 2015, this AngularJS directive will allow you get th
 
 You will have to sign up first at https://home.openweathermap.org/users/sign_up to get an API key.
 
+DEMO: www.consiliumsoft.com/AngularDirectives/Weather/Index.html
+
+
 
